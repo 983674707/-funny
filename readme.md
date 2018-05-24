@@ -1,7 +1,7 @@
 # 33-live2d-WordPress-Plugin
 33娘的Live2D看板娘插件！
 
-[Demo](https://www.fczbl.vip/946.html)
+[Demo](https://bbs.ishops.top)
 
 ## 安装方法
 Download ZIP, 解压，将 33-live2d-wp-master 重命名为 33-live2d-wp ，之后上传到你博客中的 `/wp-content/plugins` 目录，在后台启用即可
